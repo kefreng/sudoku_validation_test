@@ -26,3 +26,13 @@ gradle based.
 
 It should be possible to unpack the code from a zip, generate test report, build it and use a batch file to
 call the code from a packaged jar.
+
+
+How to run it:<br />
+1) Download the project as Zip file <br />
+2) Unzip the project <br />
+3) Open a console and go to the same path where you unzipped the file <br />
+4) Run the following command: **validate.bat puzzleName.txt** <br />
+* There are some files to test the program: <br /><br />
+* validSudoku.txt <br />
+* invalidSudoku.txt <br />
